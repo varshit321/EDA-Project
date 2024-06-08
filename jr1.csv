@@ -1,0 +1,210 @@
+,Bus_Name,Bus_type,from,to,pickup_time,drop_time,duration,prices,ratings,AC_type,Seater,semi_sleeper,sleeper
+0,IntrCity SmartBus ,A/C Seater / Sleeper (2+1),HYD,VJY,23:50,05:35,5,706,4.7,A/C,yes,no,yes
+1,IntrCity SmartBus ,AC Sleeper (2+1),HYD,VJY,23:15,06:20,7,817,4.7,A/C,no,no,yes
+2,IntrCity SmartBus ,A/C Seater / Sleeper (2+1),HYD,VJY,23:30,06:05,6,642,4.7,A/C,yes,no,yes
+3,AdFRESHBUS ,Electric A/C Seater (2+2),HYD,VJY,11:00,17:40,6,489,4.5,A/C,yes,no,no
+4,NueGo ,Electric A/C Seater (2+2),HYD,VJY,05:00,11:05,6,499,4.6,A/C,yes,no,no
+5,FRESHBUS ,Electric A/C Seater (2+2),HYD,VJY,22:55,05:35,6,475,4.6,A/C,yes,no,no
+6,Svkdt     travels ,A/C Sleeper (2+1),HYD,VJY,23:35,05:50,6,790,4.6,A/C,no,no,yes
+7,FRESHBUS ,Electric A/C Seater (2+2),HYD,VJY,05:40,11:45,6,450,4.7,A/C,yes,no,no
+8,NueGo ,Electric A/C Seater (2+2),HYD,VJY,09:25,16:25,7,499,4.5,A/C,yes,no,no
+9,NueGo ,Electric A/C Semi Sleeper (2+2),HYD,VJY,06:00,12:20,6,559,4.6,A/C,no,yes,no
+10,FRESHBUS ,Electric A/C Seater (2+2),HYD,VJY,04:15,10:30,6,475,4.6,A/C,yes,no,no
+11,FRESHBUS ,Electric A/C Seater (2+2),HYD,VJY,23:35,06:10,6,450,4.5,A/C,yes,no,no
+12,NueGo ,Electric A/C Seater (2+2),HYD,VJY,22:30,05:35,7,549,4.4,A/C,yes,no,no
+13,IntrCity SmartBus ,A/C Seater / Sleeper (2+1),HYD,VJY,22:45,05:45,7,534,4.5,A/C,yes,no,yes
+14,FRESHBUS ,Electric A/C Seater (2+2),HYD,VJY,22:00,05:20,7,609,4.5,A/C,yes,no,no
+15,FRESHBUS ,Electric A/C Seater (2+2),HYD,VJY,12:40,19:25,6,450,4.7,A/C,yes,no,no
+16,NueGo ,Electric A/C Seater (2+2),HYD,VJY,13:30,20:10,6,499,4.4,A/C,yes,no,no
+17,FRESHBUS ,Electric A/C Seater (2+2),HYD,VJY,12:25,19:05,6,450,4.6,A/C,yes,no,no
+18,GMRK Tours and Travels ,Volvo A/C Semi Sleeper (2+2),HYD,VJY,23:45,05:25,5,459,4.5,A/C,no,yes,no
+19,Svkdt     travels ,A/C Sleeper (2+1),HYD,VJY,23:35,05:50,6,790,4.4,A/C,no,no,yes
+20,NueGo ,Electric A/C Seater (2+2),HYD,VJY,21:30,04:20,6,549,4.3,A/C,yes,no,no
+21,NueGo ,Electric A/C Semi Sleeper (2+2),HYD,VJY,23:50,06:30,6,559,4.5,A/C,no,yes,no
+22,NueGo ,Electric A/C Seater (2+2),HYD,VJY,23:30,06:30,7,549,4.3,A/C,yes,no,no
+23,Sri KVR Travels ,A/C Sleeper (2+1),HYD,VJY,23:35,05:15,5,870,4.4,A/C,no,no,yes
+24,FRESHBUS ,Electric A/C Seater (2+2),HYD,VJY,15:30,23:10,7,489,4.4,A/C,yes,no,no
+25,NueGo ,Electric A/C Seater (2+2),HYD,VJY,12:00,18:25,6,499,4.3,A/C,yes,no,no
+26,Svkdt     travels ,A/C Seater / Sleeper (2+1),HYD,VJY,23:35,05:30,5,580,4.3,A/C,yes,no,yes
+27,NueGo ,Electric A/C Seater (2+2),HYD,VJY,23:00,06:00,7,549,4.2,A/C,yes,no,no
+28,FRESHBUS ,Electric A/C Seater (2+2),HYD,VJY,23:15,05:45,6,609,4.5,A/C,yes,no,no
+29,IntrCity SmartBus ,AC Sleeper (2+1),HYD,VJY,00:01,06:20,6,976,4.4,A/C,no,no,yes
+30,FRESHBUS ,Electric A/C Seater (2+2),HYD,VJY,11:25,18:05,6,450,4.6,A/C,yes,no,no
+31,NueGo ,Electric A/C Seater (2+2),HYD,VJY,15:25,23:00,7,499,4.1,A/C,yes,no,no
+32,NueGo ,Electric A/C Seater (2+2),HYD,VJY,10:25,17:25,7,449,4.1,A/C,yes,no,no
+33,Sri  Atluri Travels ,NON A/C Hi-Tech (2+2),HYD,VJY,22:15,04:10,5,560,4.7,NON A/C,no,no,no
+34,LVP Travels ,A/C Seater / Sleeper (2+1),HYD,VJY,22:19,04:45,6,880,4.1,A/C,yes,no,yes
+35,Sri Durga Malleswari Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,21:00,04:35,7,510,4.2,NON A/C,yes,no,yes
+36,NueGo ,Electric A/C Semi Sleeper (2+2),HYD,VJY,15:00,21:40,6,559,4.1,A/C,no,yes,no
+37,LVR Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,23:37,05:45,6,450,4.0,NON A/C,yes,no,yes
+38,Sri Durga Malleswari Travels ,A/C Sleeper (2+1),HYD,VJY,23:10,05:25,6,870,4.0,A/C,no,no,yes
+39,Sri KVR Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,23:13,04:20,5,480,3.9,NON A/C,yes,no,yes
+40,Go Tour Travels and Holidays ,A/C Sleeper (2+1),HYD,VJY,22:43,04:15,5,1390,4.4,A/C,no,no,yes
+41,Anjani Bus ,A/C Seater / Sleeper (2+1),HYD,VJY,22:45,04:40,5,549,3.9,A/C,yes,no,yes
+42,Morning Star Travels ,A/C Sleeper (2+1),HYD,VJY,23:30,05:20,5,890,3.8,A/C,no,no,yes
+43,BSR Tours And Travels ,VE A/C Sleeper (2+1),HYD,VJY,22:00,04:10,6,1280,4.2,A/C,no,no,yes
+44,Orange Tours And Travels ,A/C Sleeper (2+1),HYD,VJY,22:20,04:45,6,900,3.9,A/C,no,no,yes
+45,Sri Durga Malleswari Travels ,A/C Sleeper (2+1),HYD,VJY,23:10,04:35,5,870,3.9,A/C,no,no,yes
+46,LVP Travels ,A/C Seater / Sleeper (2+1),HYD,VJY,22:25,04:20,5,999,4.1,A/C,yes,no,yes
+47,NueGo ,Electric A/C Semi Sleeper (2+2),HYD,VJY,22:00,05:20,7,649,4.5,A/C,no,yes,no
+48,Orange Tours And Travels ,Bharat Benz A/C Sleeper (2+1),HYD,VJY,22:55,05:15,6,850,3.6,A/C,no,no,yes
+49,NueGo ,Electric A/C Semi Sleeper (2+2),HYD,VJY,22:35,05:15,6,559,4.0,A/C,no,yes,no
+50,Orange Tours And Travels ,NON A/C Seater/ Sleeper (2+1),HYD,VJY,23:00,05:00,6,510,3.6,NON A/C,yes,no,yes
+51,Orange Tours And Travels ,Bharat Benz A/C Sleeper (2+1),HYD,VJY,23:30,05:15,5,900,3.5,A/C,no,no,yes
+52,NueGo ,Electric A/C Semi Sleeper (2+2),HYD,VJY,23:15,06:35,7,649,4.6,A/C,no,yes,no
+53,Orange Tours And Travels ,NON A/C Seater/ Sleeper (2+1),HYD,VJY,23:00,05:15,6,600,3.4,NON A/C,yes,no,yes
+54,Sri Sai Srinivasa Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:10,04:30,6,500,3.8,NON A/C,yes,no,yes
+55,Sai Srinivasa Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,23:00,04:50,5,700,4.2,NON A/C,yes,no,yes
+56,Orange Tours And Travels ,NON A/C Seater/ Sleeper (2+1),HYD,VJY,22:20,05:15,6,600,3.5,NON A/C,yes,no,yes
+57,Yolo Bus ,A/C Seater / Sleeper (2+1),HYD,VJY,22:46,04:31,5,549,4.0,A/C,yes,no,yes
+58,Orange Tours And Travels ,NON A/C Seater/ Sleeper (2+1),HYD,VJY,23:00,05:00,6,600,3.5,NON A/C,yes,no,yes
+59,V Kaveri Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:20,04:45,6,640,3.7,NON A/C,yes,no,yes
+60,NueGo ,Electric A/C Semi Sleeper (2+2),HYD,VJY,11:30,18:10,6,559,4.7,A/C,no,yes,no
+61,Go Tour Travels and Holidays ,A/C Seater / Sleeper (2+1),HYD,VJY,22:48,04:15,5,970,4.2,A/C,yes,no,yes
+62,V Kaveri Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:22,04:00,5,510,3.6,NON A/C,yes,no,yes
+63,Orange Tours And Travels ,NON A/C Seater/ Sleeper (2+1),HYD,VJY,20:25,04:55,8,600,3.4,NON A/C,yes,no,yes
+64,Mythri Tours And Travels ,A/C Sleeper (2+1),HYD,VJY,19:10,02:28,7,1659,4.5,A/C,no,no,yes
+65,LVR Travels ,A/C Sleeper (2+1),HYD,VJY,23:00,05:15,6,1090,3.9,A/C,no,no,yes
+66,Orange Tours And Travels ,NON A/C Seater/ Sleeper (2+1),HYD,VJY,22:00,05:30,7,600,3.3,NON A/C,yes,no,yes
+67,Orange Tours And Travels ,A/C Sleeper (2+1),HYD,VJY,23:00,04:45,5,900,3.5,A/C,no,no,yes
+68,Tirumala Xpress ,A/C Sleeper (2+1),HYD,VJY,22:20,05:50,7,890,3.4,A/C,no,no,yes
+69,Nani Svkdt Travels ,A/C Sleeper (2+1),HYD,VJY,22:58,04:30,5,1299,3.3,A/C,no,no,yes
+70,Nani Svkdt Travels ,A/C Sleeper (2+1),HYD,VJY,22:58,04:25,5,1299,3.7,A/C,no,no,yes
+71,Sai RK Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:40,04:35,5,670,3.5,NON A/C,yes,no,yes
+72,V Kaveri Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:25,04:30,6,640,4.4,NON A/C,yes,no,yes
+73,Morning Star Travels ,A/C Sleeper (2+1),HYD,VJY,23:10,05:25,6,990,3.6,A/C,no,no,yes
+74,V Kaveri Travels ,Volvo Multi-Axle A/C Sleeper (2+1) ,HYD,VJY,22:30,04:00,5,880,3.2,A/C,no,no,yes
+75,SVR Tours and Travels ,Volvo Multi Axle Sleeper B11R (2+1),HYD,VJY,17:15,23:50,6,1100,3.4,A/C,no,no,yes
+76,Orange Tours And Travels ,NON A/C Seater/ Sleeper (2+1),HYD,VJY,23:30,04:45,5,600,3.0,NON A/C,yes,no,yes
+77,V Kaveri Travels ,A/C Seater / Sleeper (2+1),HYD,VJY,23:00,04:15,5,580,3.3,A/C,yes,no,yes
+78,Sitara Travels ,NON A/C Push Back (2+2),HYD,VJY,22:20,04:00,5,999,4.1,NON A/C,no,no,no
+79,Pavan Tours and Travels ,A/C Sleeper (2+1),HYD,VJY,23:00,04:55,5,699,4.8,A/C,no,no,yes
+80,DivyaSri Bus ,A/C Sleeper (2+1),HYD,VJY,22:58,04:45,5,870,3.1,A/C,no,no,yes
+81,Nani’s Sai Krishna Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:17,03:30,5,600,3.9,NON A/C,yes,no,yes
+82,Kaveri Travels ,A/C Volvo B11R Multi-Axle Sleeper (2+1),HYD,VJY,21:30,03:30,6,690,4.4,A/C,no,no,yes
+83,Orange Tours and Travels Platinum ,Volvo Multi-Axle Sleeper A/C (2+1),HYD,VJY,23:05,04:50,5,1000,3.3,A/C,no,no,yes
+84,Sai RK Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:55,04:10,5,670,3.8,NON A/C,yes,no,yes
+85,PRK Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:13,05:25,7,610,4.0,NON A/C,yes,no,yes
+86,Siri Tours and Travels ,A/C Seater / Sleeper (2+1),HYD,VJY,18:55,02:40,7,858,3.7,A/C,yes,no,yes
+87,LVR Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:13,04:55,6,500,3.0,NON A/C,yes,no,yes
+88,Sri Rama Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:40,04:15,5,880,4.7,NON A/C,yes,no,yes
+89,Eswar Travels ,A/C Seater / Sleeper (2+1),HYD,VJY,22:30,04:30,6,890,3.8,A/C,yes,no,yes
+90,IntrCity SmartBus ,VE A/C Seater / Sleeper (2+1),HYD,VJY,20:30,01:45,5,1026,4.7,A/C,yes,no,yes
+91,Orange Tours And Travels ,Bharat Benz A/C Seater /Sleeper (2+1),HYD,VJY,22:55,04:45,5,700,2.9,A/C,yes,no,yes
+92,Sri KVR Travels ,NON A/C Sleeper (2+1),HYD,VJY,22:40,05:31,6,710,3.7,NON A/C,no,no,yes
+93,Prasanna Travels ,A/C Seater / Sleeper (2+1),HYD,VJY,23:55,06:15,6,1199,2.9,A/C,yes,no,yes
+94,Orange Tours And Travels ,NON A/C Seater/ Sleeper (2+1),HYD,VJY,23:00,05:00,6,600,3.8,NON A/C,yes,no,yes
+95,Orange Tours And Travels ,Volvo Multi-Axle Sleeper A/C (2+1),HYD,VJY,23:30,04:45,5,850,3.4,A/C,no,no,yes
+96,Siri Tours and Travels ,A/C Seater / Sleeper (2+1),HYD,VJY,18:35,02:10,7,858,3.2,A/C,yes,no,yes
+97,BSR Tours And Travels ,A/C Sleeper (2+1),HYD,VJY,22:00,04:00,6,1280,3.4,A/C,no,no,yes
+98,Sri  Atluri Travels ,A/C Seater/Sleeper (2+1),HYD,VJY,22:15,05:07,6,1111,3.9,A/C,yes,no,yes
+99,Navayuga Travels ,NON AC Seater / Sleeper 2+1,HYD,VJY,22:40,04:10,5,1330,3.5,A/C,yes,no,yes
+100,SAMANVI CITICONNECT ,A/C Sleeper (2+1),HYD,VJY,22:15,04:20,6,1000,4.1,A/C,no,no,yes
+101,Prasanna Travels ,A/C Seater / Sleeper (2+1),HYD,VJY,23:40,05:35,5,1999,2.8,A/C,yes,no,yes
+102,Sai RK Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:45,04:05,5,670,3.1,NON A/C,yes,no,yes
+103,Prasanna Travels ,A/C Seater / Sleeper (2+1),HYD,VJY,23:55,05:45,5,1500,2.9,A/C,yes,no,yes
+104,Morning Star Travels ,A/C Sleeper (2+1),HYD,VJY,23:25,05:05,5,790,2.6,A/C,no,no,yes
+105,Jayanthi Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,20:55,03:50,6,780,4.4,NON A/C,yes,no,yes
+106,Orange Tours And Travels ,NON A/C Seater/ Sleeper (2+1),HYD,VJY,22:15,04:25,6,600,2.8,NON A/C,yes,no,yes
+107,Ramana Tours And Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:25,05:00,6,510,3.2,NON A/C,yes,no,yes
+108,Orange Tours And Travels ,A/C Sleeper (2+1),HYD,VJY,23:00,05:00,6,900,2.9,A/C,no,no,yes
+109,Sri Krishna Travels ,A/C Seater / Sleeper (2+1),HYD,VJY,21:30,04:00,6,1390,3.3,A/C,yes,no,yes
+110,Sri  Venkata  Padmavathi  Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:42,06:00,7,450,3.8,NON A/C,yes,no,yes
+111,IntrCity SmartBus ,A/C Seater / Sleeper (2+1),HYD,VJY,21:30,02:55,5,980,4.7,A/C,yes,no,yes
+112,Ramana Tours And Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:30,04:00,5,510,3.6,NON A/C,yes,no,yes
+113,KKaveri Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,18:15,02:00,7,880,3.8,NON A/C,yes,no,yes
+114,Orange Tours and Travels Platinum ,Volvo Multi-Axle Sleeper A/C (2+1),HYD,VJY,13:50,21:15,7,1200,2.5,A/C,no,no,yes
+115,Navayuga Travels ,NON AC Seater / Sleeper 2+1,HYD,VJY,19:45,04:30,8,1330,4.2,A/C,yes,no,yes
+116,Bharathi Tours & Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,23:15,04:30,5,750,3.6,NON A/C,yes,no,yes
+117,Sri  Atluri Travels ,NON A/C Seater/ Sleeper (2+1),HYD,VJY,20:00,03:30,7,666,3.8,NON A/C,yes,no,yes
+118,Chandu Travels ,A/C Sleeper (2+1),HYD,VJY,23:05,04:30,5,890,2.8,A/C,no,no,yes
+119,Komali Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:25,04:30,6,800,3.6,NON A/C,yes,no,yes
+120,Orange Tours And Travels ,Bharat Benz A/C Sleeper (2+1),HYD,VJY,22:55,04:45,5,850,2.3,A/C,no,no,yes
+121,Orange Tours And Travels ,NON A/C Seater/ Sleeper (2+1),HYD,VJY,23:05,06:25,7,600,2.1,NON A/C,yes,no,yes
+122,KKaveri Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:27,04:00,5,840,3.9,NON A/C,yes,no,yes
+123,Vsaikrishna Travels ,A/C Sleeper (2+1),HYD,VJY,00:30,06:50,6,3000,2.5,A/C,no,no,yes
+124,V Kaveri Travels ,A/C Seater / Sleeper (2+1),HYD,VJY,16:20,23:15,6,920,3.3,A/C,yes,no,yes
+125,CVR Express ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:20,04:20,6,610,3.4,NON A/C,yes,no,yes
+126,Orange Tours And Travels ,A/C Seater / Sleeper (2+1),HYD,VJY,17:00,01:00,8,580,2.7,A/C,yes,no,yes
+127,Puri Jagannadh Tours And  Travels ,A/C Seater / Sleeper (2+1),HYD,VJY,22:40,03:55,5,1030,3.5,A/C,yes,no,yes
+128,Royal Varma Travels ,A/C Sleeper (2+1),HYD,VJY,22:37,04:45,6,1080,4.0,A/C,no,no,yes
+129,KKaveri Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:25,03:40,5,880,2.9,NON A/C,yes,no,yes
+130,Mythri Tours And Travels ,A/C Sleeper (2+1),HYD,VJY,21:55,04:05,6,1139,3.0,A/C,no,no,yes
+131,Orange Tours And Travels ,A/C Sleeper (2+1),HYD,VJY,22:20,06:00,7,900,2.9,A/C,no,no,yes
+132,Sai Srinivasa Travels ,A/C Sleeper (2+1),HYD,VJY,22:35,04:15,5,1100,3.0,A/C,no,no,yes
+133,Mayuri Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:10,04:00,5,780,2.7,NON A/C,yes,no,yes
+134,Sri Rama Travels ,A/C Seater / Sleeper (2+1),HYD,VJY,22:25,04:15,5,1030,4.1,A/C,yes,no,yes
+135,Prasanna Travels ,A/C Seater / Sleeper (2+1),HYD,VJY,23:35,05:35,6,1700,3.1,A/C,yes,no,yes
+136,Orange Tours and Travels Grand ,A/C Sleeper (2+1),HYD,VJY,05:35,11:00,5,900,2.1,A/C,no,no,yes
+137,KKaveri Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,18:55,02:30,7,880,3.7,NON A/C,yes,no,yes
+138,Sri  Venkata  Padmavathi  Travels ,A/C Seater / Sleeper (2+1),HYD,VJY,22:40,04:45,6,500,3.8,A/C,yes,no,yes
+139,Svkdt     travels ,A/C Sleeper (2+1),HYD,VJY,16:55,02:05,9,1390,3.9,A/C,no,no,yes
+140,Sri KVR Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,20:55,03:20,6,1220,3.0,NON A/C,yes,no,yes
+141,Siri Tours and Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:13,04:00,5,750,3.9,NON A/C,yes,no,yes
+142,Morning Star Travels ,NON A/C Sleeper (2+1),HYD,VJY,22:33,05:05,6,790,2.7,NON A/C,no,no,yes
+143,NueGo ,Electric A/C Semi Sleeper (2+2),HYD,VJY,08:55,17:10,8,503,4.6,A/C,no,yes,no
+144,SAMANVI CITICONNECT ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:25,03:45,5,720,3.0,NON A/C,yes,no,yes
+145,Morning Star Travels ,A/C Sleeper (2+1),HYD,VJY,22:35,04:55,6,890,1.8,A/C,no,no,yes
+146,Mayuri Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,19:13,02:00,6,780,2.0,NON A/C,yes,no,yes
+147,Sri KVR Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,19:30,02:05,6,2250,2.6,NON A/C,yes,no,yes
+148,Orange Tours And Travels ,NON A/C Seater/ Sleeper (2+1),HYD,VJY,18:00,02:15,8,510,3.3,NON A/C,yes,no,yes
+149,V Kaveri Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:20,05:05,6,640,3.0,NON A/C,yes,no,yes
+150,Orange Tours And Travels ,NON A/C Seater/ Sleeper (2+1),HYD,VJY,14:55,23:20,8,510,2.3,NON A/C,yes,no,yes
+151,V Kaveri Travels ,A/C Sleeper (2+1),HYD,VJY,22:20,04:45,6,870,2.5,A/C,no,no,yes
+152,Sai Srinivasa Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,21:30,04:05,6,680,2.6,NON A/C,yes,no,yes
+153,Ajay Bus ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:45,04:00,5,3000,3.6,NON A/C,yes,no,yes
+154,V Kaveri Travels ,A/C Sleeper (2+1),HYD,VJY,23:00,05:10,6,870,2.9,A/C,no,no,yes
+155,Orange Tours And Travels ,NON A/C Seater/ Sleeper (2+1),HYD,VJY,20:15,03:55,7,600,2.5,NON A/C,yes,no,yes
+156,Morning Star Travels ,A/C Sleeper (2+1),HYD,VJY,22:35,04:07,5,1190,3.3,A/C,no,no,yes
+157,Sai Sri Krishna Travels ,A/C Seater / Sleeper (2+1),HYD,VJY,22:35,04:30,5,749,2.6,A/C,yes,no,yes
+158,Sri KVR Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,15:10,23:05,7,1050,3.1,NON A/C,yes,no,yes
+159,Orange Tours And Travels ,A/C Sleeper (2+1),HYD,VJY,23:45,04:45,5,1000,2.3,A/C,no,no,yes
+160,Orange Tours And Travels ,NON A/C Sleeper (2+1),HYD,VJY,19:30,02:00,6,800,2.5,NON A/C,no,no,yes
+161,Orange Tours And Travels ,A/C Seater / Sleeper (2+1),HYD,VJY,16:10,00:30,8,580,2.2,A/C,yes,no,yes
+162,Maa Dasari Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:30,04:15,5,750,1.6,NON A/C,yes,no,yes
+163,SVR Tours and Travels ,A/C Seater / Sleeper (2+1),HYD,VJY,17:15,23:50,6,880,2.4,A/C,yes,no,yes
+164,Srivastav Travels ,Bharat Benz A/C Sleeper (2+1),HYD,VJY,22:55,05:00,6,889,2.6,A/C,no,no,yes
+165,BSR Tours And Travels ,VE A/C Sleeper (2+1),HYD,VJY,22:00,04:30,6,1280,1.7,A/C,no,no,yes
+166,Jagan Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,14:15,22:00,7,1749,2.4,NON A/C,yes,no,yes
+167,SVR Tours and Travels ,Volvo Multi-Axle Sleeper A/C (2+1),HYD,VJY,17:15,23:45,6,1100,1.5,A/C,no,no,yes
+168,Tranzindia Travels ,Volvo Multi-Axle A/C Sleeper (2+1) ,HYD,VJY,21:40,03:50,6,1200,2.9,A/C,no,no,yes
+169,Morning Star Travels ,A/C Sleeper (2+1),HYD,VJY,22:40,04:30,5,990,2.0,A/C,no,no,yes
+170,Sai RK Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:35,03:30,4,740,2.3,NON A/C,yes,no,yes
+171,V Kaveri Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,16:20,23:15,6,840,1.9,NON A/C,yes,no,yes
+172,Cherry tours&travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,21:45,03:30,5,660,1.5,NON A/C,yes,no,yes
+173,KKaveri Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,15:45,23:45,8,1060,1.3,NON A/C,yes,no,yes
+174,SVR Tours and Travels ,Volvo B9R Multi-axle Semi Sleeper / Sleeper (2+1),HYD,VJY,17:15,23:50,6,990,2.3,A/C,no,yes,no
+175,Orange Tours And Travels ,NON A/C Seater/ Sleeper (2+1),HYD,VJY,13:50,21:45,7,1000,1.6,NON A/C,yes,no,yes
+176,Orange Tours And Travels ,NON A/C Seater/ Sleeper (2+1),HYD,VJY,20:30,03:30,7,510,1.7,NON A/C,yes,no,yes
+177,Sri KVR Travels ,NON A/C Seater (2+2),HYD,VJY,22:40,03:35,4,1500,2.2,NON A/C,yes,no,no
+178,IntrCity SmartBus ,AC Sleeper (2+1),HYD,VJY,22:30,03:10,4,1397,4.6,A/C,no,no,yes
+179,IntrCity SmartBus ,AC Sleeper (2+1),HYD,VJY,22:00,03:25,5,1501,4.6,A/C,no,no,yes
+180,Jayanthi Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,21:10,04:40,7,780,4.4,NON A/C,yes,no,yes
+181,Jayanthi Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,21:15,03:00,5,780,4.4,NON A/C,yes,no,yes
+182,Jayanthi Travels ,NON A/C Hi-Tech Push Back (2+2),HYD,VJY,19:15,03:15,8,780,4.4,NON A/C,no,no,no
+183,Jayanthi Travels ,A/C Sleeper (2+1),HYD,VJY,21:10,03:30,6,1550,4.4,A/C,no,no,yes
+184,Sri  Atluri Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:18,03:30,5,1111,4.2,NON A/C,yes,no,yes
+185,Sri  Atluri Travels ,NON A/C Seater/ Sleeper (2+1),HYD,VJY,22:18,03:50,5,1111,4.2,NON A/C,yes,no,yes
+186,Abhay Tours and Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:41,04:25,5,699,4.1,NON A/C,yes,no,yes
+187,LVP Travels ,A/C Seater / Sleeper (2+1),HYD,VJY,22:16,04:10,5,799,4.1,A/C,yes,no,yes
+188,Yolo Bus ,A/C Sleeper (2+1),HYD,VJY,19:40,02:29,6,1299,4.0,A/C,no,no,yes
+189,Sri Tulasi Tours and Travels ,A/C Sleeper (2+1),HYD,VJY,18:50,02:10,7,1349,4.0,A/C,no,no,yes
+190,Vahini Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:37,04:45,6,3000,4.0,NON A/C,yes,no,yes
+191,Vahini Travels ,NON A/C Push Back (2+2),HYD,VJY,20:41,03:45,7,3000,4.0,NON A/C,no,no,no
+192,Sri Tulasi Tours and Travels ,A/C Seater / Sleeper (2+1),HYD,VJY,16:20,23:20,7,1299,4.0,A/C,yes,no,yes
+193,Sri Tulasi Tours and Travels ,A/C Seater / Sleeper (2+1),HYD,VJY,14:20,21:30,7,1799,4.0,A/C,yes,no,yes
+194,Sri KVR Travels ,A/C Sleeper (2+1),HYD,VJY,22:30,04:20,5,1980,3.9,A/C,no,no,yes
+195,Manikanta Travels ,A/C Sleeper (2+1),HYD,VJY,15:15,23:40,8,1899,3.9,A/C,no,no,yes
+196,Laharisa Tours and Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:10,04:05,5,899,3.9,NON A/C,yes,no,yes
+197,KTR Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,15:15,22:45,7,1299,3.8,NON A/C,yes,no,yes
+198,Royal Varma Travels ,A/C Seater / Sleeper (2+1),HYD,VJY,22:30,04:50,6,630,3.6,A/C,yes,no,yes
+199,VARAHI TRAVELS ,A/C Seater / Sleeper (2+1),HYD,VJY,20:30,03:00,6,2490,3.6,A/C,yes,no,yes
+200,Navayuga Travels ,A/C Seater / Sleeper (2+1),HYD,VJY,19:45,04:30,8,1450,3.6,A/C,yes,no,yes
+201,Ajay Bus ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:45,04:30,5,780,3.6,NON A/C,yes,no,yes
+202,BSR Tours And Travels ,Volvo 9600 Multi-Axle A/C Sleeper (2+1),HYD,VJY,17:10,01:05,7,1770,3.6,A/C,no,no,yes
+203,Navayuga Travels ,A/C Seater / Sleeper (2+1),HYD,VJY,20:20,04:10,7,1450,3.6,A/C,yes,no,yes
+204,SAMANVI CITICONNECT ,A/C Sleeper (2+1),HYD,VJY,22:25,04:05,5,1200,3.6,A/C,no,no,yes
+205,CVR Travels ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:15,04:17,6,780,3.6,NON A/C,yes,no,yes
+206,BSR Tours And Travels ,A/C Seater / Sleeper (2+1),HYD,VJY,22:00,04:10,6,780,3.6,A/C,yes,no,yes
+207,Ajay Bus ,Non A/C Seater / Sleeper (2+1),HYD,VJY,22:45,04:40,5,780,3.6,NON A/C,yes,no,yes
+208,SRI VEERANJANEYA TOURS AND TRAVELS ,A/C Sleeper (2+1),HYD,VJY,22:10,04:30,6,1690,3.6,A/C,no,no,yes
